@@ -37,6 +37,7 @@ public class Auto {
                 }
                 else{
                     comprobante = false;
+                    break;
                 }
                 }
             }
